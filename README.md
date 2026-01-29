@@ -1,5 +1,7 @@
 # app-bancaria-simulada
 Aplicación bancaria simulada inspirada en el Banco Pichincha
+
+JHon
 ## Implementación
 
 El proyecto fue implementado en Python, desarrollando un módulo funcional
